@@ -70,5 +70,7 @@ namespace WebApplication1.Controllers
             cat.Remove(a);
             return RedirectToAction("Index");
         }
+
+
     }
 }
